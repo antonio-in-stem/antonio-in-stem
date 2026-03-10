@@ -1,4 +1,4 @@
-## Hi there 👋 
+## Hello there 👋 
 ### I'm Antonio, a Physicist in STEM
 <img width="1400" height="349" alt="ABSTR_FINAL_1" src="https://github.com/user-attachments/assets/07ab1f25-a74e-4014-86d9-54eed27a67ba" />
 
