@@ -58,11 +58,3 @@ Because of this, I tend to approach problems through:
 * experimentation
 
 ---
-
----
-
-## Philosophy
-
-Technology is most powerful when it turns **ideas into working systems**.
-
-That transformation — from concept to structure to implementation — is the work that fascinates me.
