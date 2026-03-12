@@ -59,35 +59,6 @@ Because of this, I tend to approach problems through:
 
 ---
 
-## Current Work
-
-Right now my work revolves around several themes:
-
-**Scientific Computing**
-Implementing numerical methods and computational tools from scratch.
-
-**Computational Physics**
-Modeling physical systems and exploring dynamic simulations.
-
-**Systems Design**
-Experimenting with software architecture, data-driven systems, and structural design patterns.
-
-**Product Development**
-Building digital products and tools through my project **MinhoCreates**.
-
----
-
-## Long-Term Direction
-
-My long-term goal is to work on **deep technical systems**:
-
-AI infrastructure, advanced computational tools, and large-scale engineered systems where physics, computation, and design intersect.
-
-I am especially drawn to problems that require both:
-
-* **abstract thinking**
-* **practical system building**
-
 ---
 
 ## Philosophy
