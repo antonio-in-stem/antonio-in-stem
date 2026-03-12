@@ -1,7 +1,7 @@
 # Hello there 👋 
 ### I'm Antonio, a physicist who designs technical systems.
 <img width="1400" height="349" alt="ABSTR_FINAL_1" src="https://github.com/user-attachments/assets/07ab1f25-a74e-4014-86d9-54eed27a67ba" />
-
+#
 My background in physics trained me to think from **first principles**: start with the fundamental constraints of a problem, build a model, and design a system that actually works in the real world.
 
 I use that mindset to design and build **robust technical systems** — from computational models and algorithms to software architectures and digital products.
@@ -20,17 +20,6 @@ I enjoy working at the stage where a problem is still abstract and unclear, and 
 * designing computational models
 * architecting software systems
 * building tools that become real products
-
-I am particularly interested in technical domains where **systems thinking matters**:
-
-* AI and language model architectures
-* scientific and numerical computing
-* complex technical products
-* computational modeling of physical systems
-* emerging technologies such as advanced materials, reactors, and semiconductor systems
-
-I am not limited to one specific field.
-My focus is **the design of the system itself**.
 
 ---
 
