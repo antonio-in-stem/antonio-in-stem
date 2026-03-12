@@ -29,6 +29,6 @@ Because of this, I design systems with an emphasis on:
 ---
 
 Python (NumPy, SciPy, Pandas) • Fortran • Numerical Methods (ODE/PDE) • LAMMPS • SageMath  
-Java (Spring Boot) • Node.js • REST APIs • Schema Design (JSON/YAML/CUE)  
+Java (Spring Boot) • Web (HTML, CSS, JS) • Node.js • REST APIs • Schema Design (JSON/YAML/CUE)  
 Docker • MySQL • AWS/Azure • Git  
 Scientific Visualization (Matplotlib, gnuplot, OVITO) • LLM Workflow Design
