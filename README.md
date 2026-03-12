@@ -1,5 +1,6 @@
 # Hello there 👋 
 <img width="1400" height="349" alt="ABSTR_FINAL_1" src="https://github.com/user-attachments/assets/07ab1f25-a74e-4014-86d9-54eed27a67ba" />
+
 ### I'm Antonio, a physicist who designs technical systems.
 My background in physics trained me to think from **first principles**: start with the fundamental constraints of a problem, build a model, and design a system that actually works in the real world.
 
