@@ -11,29 +11,16 @@ Software allows me to **build them.**
 
 ---
 
-## What I Focus On
+## How I Approach Systems
 
 My core interest is **system design**.
 
-I enjoy working at the stage where a problem is still abstract and unclear, and transforming it into a structured solution:
+I enjoy working at the stage where a problem is still abstract and unclear, and transforming it into a structured solution — designing computational models, architecting software systems, and building tools that evolve into real products.
 
-* designing computational models
-* architecting software systems
-* building tools that become real products
-
----
-
-## How I Think
-
-Physics forced me to learn how to:
-
-* translate real-world phenomena into mathematical models
-* simulate systems computationally
-* reason about constraints and structure
+My background in physics trained me to translate real-world phenomena into **mathematical models**, simulate systems computationally, and reason about constraints and structure.
 
 That mindset transfers naturally to engineering:
-
-a system is just a **model that has to survive reality**.
+**a system is simply a model that has to survive reality.**
 
 Because of this, I tend to approach problems through:
 
@@ -41,5 +28,3 @@ Because of this, I tend to approach problems through:
 * structure
 * first-principles reasoning
 * experimentation
-
----
