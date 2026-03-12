@@ -25,3 +25,7 @@ Because of this, I design systems with an emphasis on:
 * scalability and long-term evolution
 * anticipating failure modes and building robustness
 * experimentation and iterative refinement
+
+Scientific Computing • Systems Design • Software Architecture
+Python • Fortran • Java • Node.js • Numerical Methods • LAMMPS
+Docker • Cloud • REST APIs • Scientific Visualization
