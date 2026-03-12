@@ -26,6 +26,9 @@ Because of this, I design systems with an emphasis on:
 * anticipating failure modes and building robustness
 * experimentation and iterative refinement
 
-Scientific Computing • Systems Design • Software Architecture
-Python • Fortran • Java • Node.js • Numerical Methods • LAMMPS
-Docker • Cloud • REST APIs • Scientific Visualization
+---
+
+Python (NumPy, SciPy, Pandas) • Fortran • Numerical Methods (ODE/PDE) • LAMMPS • SageMath  
+Java (Spring Boot) • Node.js • REST APIs • Schema Design (JSON/YAML/CUE)  
+Docker • MySQL • AWS/Azure • Git  
+Scientific Visualization (Matplotlib, gnuplot, OVITO) • LLM Workflow Design
