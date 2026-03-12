@@ -8,6 +8,7 @@ I use that mindset to design and build **robust technical systems** — from com
 
 Physics taught me how to model complex systems.
 Software allows me to **build them.**
+
 ---
 
 ## What I Focus On
