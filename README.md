@@ -1,14 +1,8 @@
-# Hello there 👋 
+# I'm Antonio, a physicist who designs technical systems.
 <img width="1400" height="349" alt="ABSTR_FINAL_1" src="https://github.com/antonio-in-stem/antonio-in-stem/blob/main/banner_final_2.png?raw=true" />
 
-## I'm Antonio, a physicist who designs technical systems.
-
-My background in physics trained me to think from **first principles**: start from the fundamental constraints of a problem, build a model, and design a system that works in the real world.
-
-Physics taught me how to model complex systems.
+My background in physics trained me to think from **first principles**: start from the fundamental constraints of a problem, build a model, and design a system that works in the real world. Physics taught me how to model complex systems.
 Software allows me to **build them**.
-
----
 
 ## How I Approach Systems
 
