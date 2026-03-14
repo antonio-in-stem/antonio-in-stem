@@ -1,7 +1,5 @@
 # I'm Antonio, a physicist who designs technical systems.
-<img width="1400" height="349" alt="ABSTR_FINAL_1" src="https://github.com/antonio-in-stem/antonio-in-stem/blob/main/banner_final_2.png?raw=true" />
-
-My background in physics trained me to think from **first principles**: start from the fundamental constraints of a problem, build a model, and design a system that works in the real world.
+<img width="1400" height="349" alt="ABSTR_FINAL_1" src="https://github.com/antonio-in-stem/antonio-in-stem/blob/main/banner.png" />
 
 My core interest is **system design**. I enjoy working at the stage where a problem is still abstract and unclear, transforming it into a structured solution: designing computational models, architecting software systems, and building tools that evolve into real products.
 
