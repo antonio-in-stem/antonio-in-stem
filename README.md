@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Antonio
+# 👊 Hi, I'm Antonio
 
 **Physicist** · **Full Stack Developer** · **Product Manager**
 
@@ -8,17 +8,11 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=antonio-in-stem&color=0e75b6&style=for-the-badge&label=Profile+views)](https://github.com/antonio-in-stem)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,fortran,mysql,js,html,css,bootstrap,nodejs,spring,fastapi,git,github,cmake,latex,ps&perline=13&theme=dark" />
-  </a>
-</p>
-
 </div>
 
 ## 📬 About me
 
-My core interest is **system design**: turning fuzzy problems into structured solutions—computational models, software architecture, and tools that become real products. Physics trained me to map phenomena to **mathematical models**, simulate them, and reason about constraints and failure modes, so I bias toward clarity, first principles, scalability, robustness, and iteration.
+**I enjoy doing things for you.** I am at my best when turning ambiguous problems into structured solutions models, software architecture, and tools that become real products. Physics wired me to map phenomena to **mathematical models**, simulate outcomes, and reason deeply about constraints and failure modes. As a result, my work is always biased toward clarity, first principles, scalability, and iterative robustness.
 
 ## 🤝🏻 Connect with me
 
@@ -26,7 +20,13 @@ My core interest is **system design**: turning fuzzy problems into structured so
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yosoyantoniomartinez@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-in-stem)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=safari&logoColor=white)](https://antonio-in-stem.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3423A6?style=flat&logo=safari&logoColor=white)](https://antonio-in-stem.github.io/portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/antonio-in-stem)
 
 </div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,fortran,mysql,js,html,css,bootstrap,nodejs,spring,fastapi,git,github,cmake,latex,ps&perline=13&theme=dark" />
+  </a>
+</p>
