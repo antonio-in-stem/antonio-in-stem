@@ -14,7 +14,7 @@
 
 ## 📬 About me
 
-**I enjoy doing things for you.** I am at my best when turning ambiguous problems into structured solutions models, software architecture, and tools that become real products. Physics wired me to map phenomena to **mathematical models**, simulate outcomes, and reason deeply about constraints and failure modes. As a result, my work is always biased toward clarity, first principles, scalability, and iterative robustness.
+**I enjoy doing things for you.** I am at my best when turning ambiguous problems into structured solutions models, software, and tools that become real products. Physics wired me to map phenomena to **mathematical models**, simulate outcomes, and reason deeply about constraints and failure modes. As a result, my work is always biased toward clarity, first principles, scalability, and iterative robustness.
 
 <p align="center">
   <a href="https://skillicons.dev">
