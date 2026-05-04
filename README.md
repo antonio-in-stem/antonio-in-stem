@@ -10,21 +10,17 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fortran,java,js,html,css,nodejs,spring,mysql,git,bootstrap,cmake,fastapi,github,latex,ps&perline=13&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,java,fortran,mysql,js,html,css,bootstrap,nodejs,spring,fastapi,git,github,cmake,latex,ps&perline=13&theme=dark" />
   </a>
 </p>
 
 </div>
 
-## About
+## 📬 About me
 
 My core interest is **system design**: turning fuzzy problems into structured solutions—computational models, software architecture, and tools that become real products. Physics trained me to map phenomena to **mathematical models**, simulate them, and reason about constraints and failure modes, so I bias toward clarity, first principles, scalability, robustness, and iteration.
 
-**Also in the toolbox:** NumPy · SciPy · Pandas · numerical methods (ODE/PDE) · LAMMPS · SageMath · Matplotlib / gnuplot / OVITO · REST APIs · JSON / YAML / CUE · LLM workflow design
-
----
-
-## Connect
+## 🤝🏻 Connect with me
 
 <div align="center">
 
