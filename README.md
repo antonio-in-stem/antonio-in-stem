@@ -10,6 +10,8 @@
 
 </div>
 
+<div align="center">
+
 ## 📬 About me
 
 **I enjoy doing things for you.** I am at my best when turning ambiguous problems into structured solutions models, software architecture, and tools that become real products. Physics wired me to map phenomena to **mathematical models**, simulate outcomes, and reason deeply about constraints and failure modes. As a result, my work is always biased toward clarity, first principles, scalability, and iterative robustness.
@@ -20,10 +22,7 @@
   </a>
 </p>
 
-
 ## 🤝🏻 Connect with me
-
-<div align="center">
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yosoyantoniomartinez@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-in-stem)
