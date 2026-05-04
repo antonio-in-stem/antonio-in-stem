@@ -8,7 +8,11 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=antonio-in-stem&color=0e75b6&style=for-the-badge&label=Profile+views)](https://github.com/antonio-in-stem)
 
-[![Skills](https://skillicons.dev/icons?i=py,fortran,java,js,html,css,nodejs,spring,mysql,git,bootstrap,cmake,fastapi,github,latex,ps&perline=13&theme=dark)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,fortran,java,js,html,css,nodejs,spring,mysql,git,bootstrap,cmake,fastapi,github,latex,ps&perline=13&theme=dark" />
+  </a>
+</p>
 
 </div>
 
