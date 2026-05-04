@@ -8,7 +8,7 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=antonio-in-stem&color=0e75b6&style=for-the-badge&label=Profile+views)](https://github.com/antonio-in-stem)
 
-[![Skills](https://skillicons.dev/icons?i=py,fortran,java,js,html,css,nodejs,spring,mysql,git,bootstrap,cmake,fastapi,github,latex,ps&perline=15&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=py,fortran,java,js,html,css,nodejs,spring,mysql,git,bootstrap,cmake,fastapi,github,latex,ps&perline=13&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -18,6 +18,15 @@ My core interest is **system design**: turning fuzzy problems into structured so
 
 **Also in the toolbox:** NumPy · SciPy · Pandas · numerical methods (ODE/PDE) · LAMMPS · SageMath · Matplotlib / gnuplot / OVITO · REST APIs · JSON / YAML / CUE · LLM workflow design
 
-<p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=antonio-in-stem&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-</p>
+---
+
+## Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yosoyantoniomartinez@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-in-stem)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=safari&logoColor=white)](https://antonio-in-stem.github.io/portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/antonio-in-stem)
+
+</div>
