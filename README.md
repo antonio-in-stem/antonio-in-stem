@@ -14,6 +14,13 @@
 
 **I enjoy doing things for you.** I am at my best when turning ambiguous problems into structured solutions models, software architecture, and tools that become real products. Physics wired me to map phenomena to **mathematical models**, simulate outcomes, and reason deeply about constraints and failure modes. As a result, my work is always biased toward clarity, first principles, scalability, and iterative robustness.
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,fortran,mysql,js,html,css,bootstrap,nodejs,spring,fastapi,git,github&perline=13&theme=dark" />
+  </a>
+</p>
+
+
 ## 🤝🏻 Connect with me
 
 <div align="center">
@@ -24,9 +31,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/antonio-in-stem)
 
 </div>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,fortran,mysql,js,html,css,bootstrap,nodejs,spring,fastapi,git,github,cmake,latex,ps&perline=13&theme=dark" />
-  </a>
-</p>
