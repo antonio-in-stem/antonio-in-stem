@@ -2,13 +2,13 @@
 
 # Hi, I'm Antonio
 
-**Physicist** · **Systems designer** · **Computational modeling**
+**Physicist** · **Full Stack Developer** · **Product Manager**
 
 <img width="1400" height="349" alt="Shu-Ha-Ri banner" src="https://github.com/user-attachments/assets/0b281c0c-ecd0-429f-ae0e-83dab64accb1" />
 
 [![Profile views](https://komarev.com/ghpvc/?username=antonio-in-stem&color=0e75b6&style=for-the-badge&label=Profile+views)](https://github.com/antonio-in-stem)
 
-[![Skills](https://skillicons.dev/icons?i=py,fortran,java,js,html,css,nodejs,spring,mysql,docker,git,aws,azure&perline=9&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=py,fortran,java,js,html,css,nodejs,spring,mysql,git,bootstrap,cmake,fastapi,github,latex,ps&perline=15&theme=dark)](https://skillicons.dev)
 
 </div>
 
